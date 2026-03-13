@@ -12,3 +12,4 @@ This repository is designed for educational purposes to demonstrate common secur
 - ✅ No Input Validation
 
 > ⚠️ Do NOT deploy in production. Use only in isolated environments
+> 
