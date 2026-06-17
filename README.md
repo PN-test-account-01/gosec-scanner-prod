@@ -7,7 +7,7 @@ This repository is designed for educational purposes to demonstrate common secur
 - ✅ Command Injection (`/ping`)
 - ✅ SQL Injection (`/login`)
 - ✅ Hardcoded Secrets
-- ✅ Open Debug Endpoint (`/debug`)
+- ✅ Open Debug Endpoint (`/debug`)d
 - ✅ Verbose Errors
 - ✅ No Input Validation
 
